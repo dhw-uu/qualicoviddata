@@ -1,8 +1,8 @@
-Region,Basilicata,Calabria,Emilia-Romagna,Lombardia,Sudtirol,Piemonte,Sicilia,Valle d'Aosta,Friuli-Venezia Giulia,Molise,Umbria
-Colour,Yellow,Yellow,Yellow,Yellow,Yellow,Yellow,Yellow,Yellow,White,White,White
-Restaurants,Open 4 per table,Open 4 per table,Open 4 per table,Open 4 per table,Open 4 per table,Open 4 per table,Open 4 per table,Open 4 per table,Open 6 per table,Open 6 per table,Open 6 per table
-Bars,Open within service,Open within service,Open within service,Open within service,Open within service,Open within service,Open within service,Open within service,Open ,Open ,Open 
-Hotels ,Open,Open,Open,Open,Open,Open,Open,Open,Open,Open,Open
-Swimming pools,Opening in progress,Opening in progress,Opening in progress,Opening in progress,Opening in progress,Opening in progress,Opening in progress,Opening in progress,Open,Open,Open
-Museums,Open,Open,Open,Open,Open,Open,Open,Open,Open,Open,Open
-Major events (culture and sports),Open at 25%,Open at 25%,Open at 25%,Open at 25%,Open at 25%,Open at 25%,Open at 25%,Open at 25%,Open at 25%,Open at 25%,Open at 25%
+Region,Basilicata,Calabria,Emilia-Romagna,Lombardia,Sudtirol,Piemonte,Sicilia,Valle d'Aosta,Friuli-Venezia Giulia,Molise,Umbria,Liguria,Abruzzo,Campania,Puglia,Sardegna,Trentino-Alto Adige,Veneto,Toscana,Marche,Lazio
+Colour,Yellow,Yellow,Yellow,Yellow,Yellow,Yellow,Yellow,Yellow,White,White,White,White,White,White,White,White,White,White,White,White,White
+Restaurants,Open 4 per table,Open 4 per table,Open 4 per table,Open 4 per table,Open 4 per table,Open 4 per table,Open 4 per table,Open 4 per table,Open 6 per table,Open 6 per table,Open 6 per table,Open 6 per table,Open 6 per table,Open 6 per table,Open 6 per table,Open 6 per table,Open 6 per table,Open 6 per table,Open 6 per table,Open 6 per table,Open 6 per table
+Bars,Open within service,Open within service,Open within service,Open within service,Open within service,Open within service,Open within service,Open within service,Open ,Open ,Open ,Open ,Open ,Open ,Open ,Open ,Open ,Open ,Open ,Open ,Open 
+Hotels ,Open,Open,Open,Open,Open,Open,Open,Open,Open,Open,Open,Open,Open,Open,Open,Open,Open,Open,Open,Open,Open
+Swimming pools,Opening in progress,Opening in progress,Opening in progress,Opening in progress,Opening in progress,Opening in progress,Opening in progress,Opening in progress,Open,Open,Open,Open,Open,Open,Open,Open,Open,Open,Open,Open,Open
+Museums,Open,Open,Open,Open,Open,Open,Open,Open,Open,Open,Open,Open,Open,Open,Open,Open,Open,Open,Open,Open,Open
+Major events (culture and sports),Open at 25%,Open at 25%,Open at 25%,Open at 25%,Open at 25%,Open at 25%,Open at 25%,Open at 25%,Open at 25%,Open at 25%,Open at 25%,Open at 25%,Open at 25%,Open at 25%,Open at 25%,Open at 25%,Open at 25%,Open at 25%,Open at 25%,Open at 25%,Open at 25%
